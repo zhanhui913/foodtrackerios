@@ -32,7 +32,7 @@
 
 /* Begin PBXFileReference section */
 		7F5EB86C1F350DF700D57018 /* FoodTracker_dev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker_dev.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7F5EB86D1F350DF700D57018 /* FoodTracker copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "FoodTracker copy-Info.plist"; path = "/Users/zhan/Jostle/Buddybuild/foodtrackerios/FoodTracker copy-Info.plist"; sourceTree = "<absolute>"; };
+		7F5EB86D1F350DF700D57018 /* FoodTracker dev-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "FoodTracker dev-Info.plist"; path = "/Users/zhan/Jostle/Buddybuild/foodtrackerios/FoodTracker dev-Info.plist"; sourceTree = "<absolute>"; };
 		936B4B7E1DB54E8F0090E3EE /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		936B4B811DB54E8F0090E3EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		936B4B831DB54E8F0090E3EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 				936B4B801DB54E8F0090E3EE /* FoodTracker */,
 				936B4B951DB54E8F0090E3EE /* FoodTrackerTests */,
 				936B4B7F1DB54E8F0090E3EE /* Products */,
-				7F5EB86D1F350DF700D57018 /* FoodTracker copy-Info.plist */,
+				7F5EB86D1F350DF700D57018 /* FoodTracker dev-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
