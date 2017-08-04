@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>FoodTracker_dev.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>7F5EB8601F350DF700D57018</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>936B4B7D1DB54E8F0090E3EE</key>
 		<dict>
 			<key>primary</key>
